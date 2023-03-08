@@ -6,6 +6,13 @@ Fisheye image to Panoramic + Yolov8 object detection !
   * requirements.txt
 
 ## Fisheye to Panoramic
+This is an application of object detections using YOLOv8 after to change the image of fisheye to panoramic.
+This process is implemented python, and the following libraries:
+  * OpenCV (For testing)
+  * Numpy (Matrix application)
+  * Math (For implementing algorithm)
+  * Ultralytics (For object detection)
+
 We are working with the metod present in [this video](https://www.youtube.com/watch?v=QThcz7XQQPU&ab_channel=robotmania). Here we use the next:
 
 ![Algoritm used][lil-relation-url]
